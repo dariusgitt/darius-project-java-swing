@@ -6,7 +6,7 @@ It opens with a Main Menu that lets users choose between two services:
 - **Pizza Order** - Order your favorite pizza early
 - **PNG Power Recharge** - Recharge your PNG Power meter instantly
 
-Built as an S3 project, 2026. Debugged and fixed for real use.
+Built as an S3 project
 
 ## Features
 
